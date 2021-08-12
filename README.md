@@ -1,2 +1,1 @@
-# nn_server
-Nearest Neighbors Server
+# Nearest Neighbors Server
